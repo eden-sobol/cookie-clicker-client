@@ -6,3 +6,6 @@ press f12 on cookie clicker
 click "console"
 paste code
 press enter
+
+
+buttons are pretty self explanatory
