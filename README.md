@@ -9,3 +9,5 @@ press enter
 
 
 buttons are pretty self explanatory
+
+if you want patch notes check /versions
